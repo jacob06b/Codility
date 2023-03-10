@@ -1,0 +1,15 @@
+/Users/jacobbramwell/Documents/GitHub/Codility/Codility/bin/Debug/net6.0/Codility
+/Users/jacobbramwell/Documents/GitHub/Codility/Codility/bin/Debug/net6.0/Codility.deps.json
+/Users/jacobbramwell/Documents/GitHub/Codility/Codility/bin/Debug/net6.0/Codility.runtimeconfig.json
+/Users/jacobbramwell/Documents/GitHub/Codility/Codility/bin/Debug/net6.0/Codility.dll
+/Users/jacobbramwell/Documents/GitHub/Codility/Codility/bin/Debug/net6.0/Codility.pdb
+/Users/jacobbramwell/Documents/GitHub/Codility/Codility/obj/Debug/net6.0/Codility.csproj.AssemblyReference.cache
+/Users/jacobbramwell/Documents/GitHub/Codility/Codility/obj/Debug/net6.0/Codility.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jacobbramwell/Documents/GitHub/Codility/Codility/obj/Debug/net6.0/Codility.AssemblyInfoInputs.cache
+/Users/jacobbramwell/Documents/GitHub/Codility/Codility/obj/Debug/net6.0/Codility.AssemblyInfo.cs
+/Users/jacobbramwell/Documents/GitHub/Codility/Codility/obj/Debug/net6.0/Codility.csproj.CoreCompileInputs.cache
+/Users/jacobbramwell/Documents/GitHub/Codility/Codility/obj/Debug/net6.0/Codility.dll
+/Users/jacobbramwell/Documents/GitHub/Codility/Codility/obj/Debug/net6.0/refint/Codility.dll
+/Users/jacobbramwell/Documents/GitHub/Codility/Codility/obj/Debug/net6.0/Codility.pdb
+/Users/jacobbramwell/Documents/GitHub/Codility/Codility/obj/Debug/net6.0/Codility.genruntimeconfig.cache
+/Users/jacobbramwell/Documents/GitHub/Codility/Codility/obj/Debug/net6.0/ref/Codility.dll
